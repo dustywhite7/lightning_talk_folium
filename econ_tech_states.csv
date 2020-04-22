@@ -1,0 +1,52 @@
+State,Econ,Tech,state_code
+District of Columbia,0.43,0.57,DC
+New York,0.33,0.67,NY
+Massachusetts,0.35,0.65,MA
+Virginia,0.37,0.63,VA
+Maryland,0.35,0.65,MD
+Georgia,0.38,0.62,GA
+California,0.41,0.59,CA
+New Jersey,0.39,0.61,NJ
+Minnesota,0.37,0.63,MN
+Connecticut,0.39,0.61,CT
+New Hampshire,0.35,0.65,NH
+Washington,0.37,0.63,WA
+Utah,0.36,0.64,UT
+Texas,0.41,0.59,TX
+North Carolina,0.39,0.61,NC
+Illinois,0.38,0.62,IL
+Kansas,0.37,0.63,KS
+Delaware,0.4,0.6,DE
+Colorado,0.4,0.6,CO
+Rhode Island,0.4,0.6,RI
+South Carolina,0.39,0.61,SC
+South Dakota,0.38,0.62,SD
+Pennsylvania,0.37,0.63,PA
+Arizona,0.39,0.61,AZ
+Indiana,0.42,0.58,IN
+Vermont,0.42,0.58,VT
+Maine,0.39,0.61,ME
+Alabama,0.36,0.64,AL
+Missouri,0.37,0.63,MO
+Arkansas,0.39,0.61,AR
+Iowa,0.43,0.57,IA
+Mississippi,0.37,0.63,MS
+Michigan,0.41,0.59,MI
+Florida,0.42,0.58,FL
+New Mexico,0.39,0.61,NM
+North Dakota,0.39,0.61,ND
+Ohio,0.38,0.62,OH
+Tennessee,0.36,0.64,TN
+Oregon,0.39,0.61,OR
+Hawaii,0.45,0.55,HI
+Wisconsin,0.41,0.59,WI
+Montana,0.37,0.63,MT
+Alaska,0.4,0.6,AK
+Idaho,0.42,0.58,ID
+Oklahoma,0.38,0.62,OK
+Nevada,0.41,0.59,NV
+Nebraska,0.4,0.6,NE
+Louisiana,0.39,0.61,LA
+Kentucky,0.4,0.6,KY
+Wyoming,0.41,0.59,WY
+West Virginia,0.39,0.61,WV
